@@ -2,3 +2,5 @@
 .env
 react/node_modules
 react/.env
+package-lock.json
+react/package-lock.json
