@@ -1,0 +1,4 @@
+/node_modules
+.env
+react/node_modules
+react/.env
